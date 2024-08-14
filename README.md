@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia e desenvolvim
 
 ## 📈 Projetos Destacados
 
-- **[Teste-técnico](link-para-o-repositorio)**: .
+- **🤗 [Teste-técnico](https://github.com/Beah-bits/teste--t-cnico)**:Este projeto é um formulário de cadastro não funcional, criado com HTML5 e CSS3. Ele inclui campos para nome, senha por exemplo, com validação básica usando atributos HTML5. O design moderno e responsivo é realizado com técnicas de CSS3, garantindo uma aparência atraente em diferentes dispositivos .
 
 
 ## 🛠️ Como Contribuir
